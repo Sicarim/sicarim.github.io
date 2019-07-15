@@ -1,7 +1,7 @@
 # Site settings
 title: Sicarim's Lab
 description: Technology, Game, Development All things 
-cover: assets/images/MainWindow.png #배경화면
+cover: assets/images/MainWindow.png
 logo: assets/images/logo.png
 favicon: assets/images/favicon.png
 baseurl: "/hanuman/" # the subpath of your site, e.g. /blog/ or / for root
