@@ -48,12 +48,12 @@ plugins:
 safe: False
 lsi: False
 username: DoYun #github username
-repo: hanuman #github repository
+repo: sicarim #github repository
 branch: master #branch
 relative_source: ../sicarim/ #source directory
-destination: ../hanuman-pages/ #destination directory
+destination: ../sicarim-pages/ #destination directory
 production_url:  https://sicarim.github.io/
-source_url:  https://github.com/Sicarim/sicarim.github.io #source repository url
+source_url:  https://github.com/sicarim/sicarim.github.io #source repository url
 
 exclude:
   - README.md
