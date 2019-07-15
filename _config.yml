@@ -1,7 +1,7 @@
 # Site settings
 title: Sicarim's Lab
 description: Technology, Game, Development All things 
-cover: sicarim.github.io/assets/images/radhakrishna.jpg
+cover: assets/images/radhakrishna.jpg
 logo: assets/images/logo.png
 favicon: assets/images/favicon.png
 baseurl: "/sicarim/" # the subpath of your site, e.g. /blog/ or / for root
@@ -50,7 +50,7 @@ lsi: False
 username: DoYun #github username
 repo: sicarim #github repository
 branch: master #branch
-relative_source: ../sicarim/ #source directory
+#relative_source: ../sicarim/ #source directory
 destination: ../sicarim-pages/ #destination directory
 production_url:  https://sicarim.github.io/
 source_url:  https://github.com/Sicarim/sicarim.github.io #source repository url
