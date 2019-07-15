@@ -53,7 +53,7 @@ branch: master #branch
 relative_source: ../sicarim/ #source directory
 destination: ../sicarim-pages/ #destination directory
 production_url:  https://sicarim.github.io/
-source_url:  https://github.com/sicarim/sicarim.github.io #source repository url
+source_url:  https://github.com/Sicarim/sicarim.github.io #source repository url
 
 exclude:
   - README.md
